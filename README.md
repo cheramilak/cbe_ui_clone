@@ -1,16 +1,47 @@
-# cbe_mobile
+# cbe Birr UI Clone
 
-A new Flutter project.
+The CBE Birr UI Clone is a mobil application developed to replicate the user interface of the cbe birr app. It is built using flutter and allows users to browse and view CBE-birr in a familiar and interactive interface.
+
+# Screenshots
+
+![](https://github.com/cheramilak/cbe_ui_clone/blob/main/screenshots/img1.png?raw=true)
+![](https://github.com/cheramilak/cbe_ui_clone/blob/main/screenshots/img2.png?raw=true)
+
+
+# Technologies & Tools Used
+
+- FLUTTER
+- VS Code
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Step-1: Download or clone this repository -
 
-A few resources to get you started if this is your first Flutter project:
+    git clone https://github.com/cheramilak/cbe_ui_clone.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Step-2: Go to project root and execute the following command in console to get the required dependencies -
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    flutter pub get 
+    
+Step-3: Run flutter project -
+
+    flutter run
+
+# Demo
+
+A live demo of the CBE Birr UI Clone is available at [LINK TO LIVE video](https://vm.tiktok.com/ZMjpfnJvs/).
+
+## Required Tools
+- Android Studio
+- Visual Studio Code (Optional)
+- Flutter
+- Dart
+
+# Credits
+
+The CBE Birr UI Clone was created by [Cheramilak](https://github.com/cheramilak).
+
+# License
+
+This project is licensed under the MIT license.
